@@ -1,0 +1,110 @@
+html, body {
+    background: #999 url(../images/bricks.png) 0 0 repeat;
+    color: #111111;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    height: 100%;
+    line-height: normal;
+    margin: 0;
+}
+
+.page {
+    background: #FFFFFF none repeat scroll 0 0;
+    width: 921px;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 1em auto -2em auto;
+    overflow: hidden
+}
+
+.header h1 {
+    font-size: 25px;
+    margin: 1em;
+    float: left;
+}
+
+.header img.logo {
+    float: right;
+    margin: 1em;
+}
+
+.header ul.nav {
+    float: right;
+    margin: 1em;
+    clear: both;
+}
+
+.header ul.nav {
+    float: right;
+    clear: both;
+    font-size: 18px;
+    margin: 0 4em 0 0;
+}
+
+.header ul.nav li {
+    padding: 0.2em 0em;
+}
+
+.header img.hero {
+    float: left;
+    height: 350px;
+    width: 675px;
+    margin: -3em 0 0 2em;
+    border: 1px solid #AAA;
+}
+
+.thePitch {
+    float: left;
+    clear: both;
+    margin: 2em;
+}
+
+.thePitch .applications,
+.thePitch .crafted,
+.thePitch .delivered {
+    width: 33%;
+    float: left;
+}
+
+.thePitch h2 {
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: solid red 3px;
+    width: 77%;
+    padding-bottom: 0.2em;
+}
+
+.thePitch p {
+    font-size: 16px;
+    padding-top: 1em;
+    color: #555;
+    width: 80%;
+    line-height: 1.5em;
+}
+
+.footer, .push {
+    width: 921px;
+    height: 2em;
+    margin: 0 auto;
+}
+
+.footer ul {
+    float: left;
+    width: 98%;
+}
+
+.footer ul li {
+    float: left;
+    display: inline;
+    margin-left: 1em;
+}
+
+.footer li.copyright {
+    float: right;
+}
