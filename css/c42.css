@@ -59,6 +59,19 @@ html, body {
     border: 1px solid #AAA;
 }
 
+.header ul.subNav {
+    float: right;
+    font-size: 14px;
+    margin: 6.8em 6.3em 0 0;
+    color: #555;    
+}
+
+.header ul.subNav li {
+    margin-bottom: 0.5em;
+    padding-left: 0.5em;
+    border-left: solid 1px red;
+}
+
 .thePitch {
     float: left;
     clear: both;
