@@ -106,6 +106,12 @@ html, body {
     margin-bottom: 0.5em;
 }
 
+.footer li.connect,
 .footer li.copyright {
     float: right;
+}
+
+.footer li.connect img {
+    margin-top: -0.3em;
+    padding-right: 0.5em;
 }
