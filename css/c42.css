@@ -153,7 +153,7 @@ html, body {
 
 .footer, .push {
     width: 921px;
-    height: 2em;
+    height: 3em;
     margin: 0 auto;
     overflow: hidden;
 }
@@ -166,7 +166,7 @@ html, body {
 .footer ul li {
     float: left;
     display: inline;
-    margin-left: 1em;
+    margin-left: 2em;
     margin-bottom: 0.5em;
 }
 
