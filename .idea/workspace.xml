@@ -27,7 +27,7 @@
       <file leaf-file-name="index.xhtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="19" selection-start="972" selection-end="972" vertical-scroll-proportion="-16.421053">
+            <state line="53" column="54" selection-start="1776" selection-end="1776" vertical-scroll-proportion="-24.0">
               <folding />
             </state>
           </provider>
@@ -36,7 +36,7 @@
       <file leaf-file-name="c42.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/c42.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="0" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.5215517">
+            <state line="122" column="19" selection-start="1970" selection-end="1970" vertical-scroll-proportion="0.3922414">
               <folding />
             </state>
           </provider>
@@ -229,14 +229,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="19" selection-start="972" selection-end="972" vertical-scroll-proportion="-16.421053">
+        <state line="53" column="54" selection-start="1776" selection-end="1776" vertical-scroll-proportion="-24.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/c42.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="0" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.5215517">
+        <state line="122" column="19" selection-start="1970" selection-end="1970" vertical-scroll-proportion="0.3922414">
           <folding />
         </state>
       </provider>

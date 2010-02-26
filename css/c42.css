@@ -63,7 +63,7 @@ html, body {
     float: right;
     font-size: 14px;
     margin: 6.8em 6.3em 0 0;
-    color: #555;    
+    color: #555;
 }
 
 .header ul.subNav li {
@@ -101,10 +101,61 @@ html, body {
     line-height: 1.5em;
 }
 
+.blogFeed {
+    float: left;
+    clear: both;
+    margin: 2em 2em 2em 2em;
+}
+
+.blogFeed h3 {
+    font-size: 12px;
+    font-weight: bold;
+    width: 77%;
+    padding-bottom: 0.5em;
+    border-bottom: solid red 1px;
+}
+
+.blogFeed .authors{
+   float: right; 
+}
+
+.blogFeed .authors img{
+   margin-left: 0.5em;  
+}
+
+.blogFeed .post {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+
+.blogFeed .post h4 {
+    font-size: 12px;
+    font-weight: bold;
+    width: 77%;
+}
+
+.blogFeed p.authorship {
+    font-size: 12px;
+    padding-top: 0.5em;
+    color: #888;
+    width: 77%;
+    line-height: 1.2em;
+}
+
+.blogFeed p.snippet {
+    font-size: 12px;
+    padding-top: 1em;
+    color: #555;
+    width: 80%;
+    line-height: 1.2em;
+    padding-bottom: 1em;
+}
+
 .footer, .push {
     width: 921px;
     height: 2em;
     margin: 0 auto;
+    overflow: hidden;
 }
 
 .footer ul {
