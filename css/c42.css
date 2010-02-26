@@ -15,6 +15,7 @@ html, body {
 
 .page {
     background: #FFFFFF none repeat scroll 0 0;
+    border:2px solid #DDDDDD;
     width: 921px;
     min-height: 100%;
     height: auto !important;

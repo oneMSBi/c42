@@ -33,10 +33,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="the_team.xhtml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="the_team.xhtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/the_team.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="72" selection-start="606" selection-end="606" vertical-scroll-proportion="0.16234498">
+            <state line="3" column="110" selection-start="176" selection-end="176" vertical-scroll-proportion="-1.8947369">
               <folding />
             </state>
           </provider>
@@ -60,10 +60,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="c42.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="c42.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/c42.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="42" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
+            <state line="17" column="28" selection-start="433" selection-end="433" vertical-scroll-proportion="0.22516556">
               <folding />
             </state>
           </provider>
@@ -81,9 +81,9 @@
       <list>
         <option value="$PROJECT_DIR$/index.html.xhtml" />
         <option value="$PROJECT_DIR$/css/home.css" />
-        <option value="$PROJECT_DIR$/css/c42.css" />
         <option value="$PROJECT_DIR$/index.xhtml" />
         <option value="$PROJECT_DIR$/the_team.xhtml" />
+        <option value="$PROJECT_DIR$/css/c42.css" />
       </list>
     </option>
   </component>
@@ -242,20 +242,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="0" selection-start="1295" selection-end="1295" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/c42.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="42" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/the_team.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -272,7 +258,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/the_team.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="72" selection-start="606" selection-end="606" vertical-scroll-proportion="0.16234498">
+        <state line="3" column="110" selection-start="176" selection-end="176" vertical-scroll-proportion="-1.8947369">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="0" selection-start="1295" selection-end="1295" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/c42.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="28" selection-start="433" selection-end="433" vertical-scroll-proportion="0.22516556">
           <folding />
         </state>
       </provider>
