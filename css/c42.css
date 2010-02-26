@@ -51,14 +51,6 @@ html, body {
     padding: 0.2em 0em;
 }
 
-.header img.hero {
-    float: left;
-    height: 350px;
-    width: 675px;
-    margin: -3em 0 0 2em;
-    border: 1px solid #AAA;
-}
-
 .header ul.subNav {
     float: right;
     font-size: 14px;
@@ -72,84 +64,6 @@ html, body {
     border-left: solid 1px red;
 }
 
-.thePitch {
-    float: left;
-    clear: both;
-    margin: 2em;
-}
-
-.thePitch .applications,
-.thePitch .crafted,
-.thePitch .delivered {
-    width: 33%;
-    float: left;
-}
-
-.thePitch h2 {
-    font-size: 20px;
-    font-weight: bold;
-    border-bottom: solid red 3px;
-    width: 77%;
-    padding-bottom: 0.2em;
-}
-
-.thePitch p {
-    font-size: 16px;
-    padding-top: 1em;
-    color: #555;
-    width: 80%;
-    line-height: 1.5em;
-}
-
-.blogFeed {
-    float: left;
-    clear: both;
-    margin: 2em 2em 2em 2em;
-}
-
-.blogFeed h3 {
-    font-size: 12px;
-    font-weight: bold;
-    width: 77%;
-    padding-bottom: 0.5em;
-    border-bottom: solid red 1px;
-}
-
-.blogFeed .authors{
-   float: right; 
-}
-
-.blogFeed .authors img{
-   margin-left: 0.5em;  
-}
-
-.blogFeed .post {
-    margin-top: 0.5em;
-    margin-bottom: 1em;
-}
-
-.blogFeed .post h4 {
-    font-size: 12px;
-    font-weight: bold;
-    width: 77%;
-}
-
-.blogFeed p.authorship {
-    font-size: 12px;
-    padding-top: 0.5em;
-    color: #888;
-    width: 77%;
-    line-height: 1.2em;
-}
-
-.blogFeed p.snippet {
-    font-size: 12px;
-    padding-top: 1em;
-    color: #555;
-    width: 80%;
-    line-height: 1.2em;
-    padding-bottom: 1em;
-}
 
 .footer, .push {
     width: 921px;
